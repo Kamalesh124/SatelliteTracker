@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
 
-@CrossOrigin(origins = {"http://localhost:5173", "https://satellite-tracker-seven.vercel.app"})
+@CrossOrigin(origins = {"http://localhost:5173", "https://satellite-tracker-xjtt-git-master-kamalesh124s-projects.vercel.app"})
 @RestController
 @RequestMapping("/satellite")
 public class SatelliteController {
